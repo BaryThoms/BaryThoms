@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour 👋, Moi c'est Tchimou Junior</h1>
 <h3 align="center">Informaticien et développeur de logiciels destinés aux entreprises et à la commercialisation. J’ai acquis de multiples compétences tant sur ma formation pédagogique que mon expérience personnelle du domaine.</h3>
 
-- 🔭 J'occupe le poste de [WEBMaster](https://tkfaart.net) et WEBMaster des projets HEYZ.CI
+- 🔭 J'occupe le poste de [WEBMaster de TKFAAART FILM/SERIE](https://tkfaart.net) et WEBMaster des projets HEYZ.CI
 
 - 🌱 J'apprends actuellement **Framework : NodeJS, Bootstrap, Symfony, jQuery, Flutter..**
 
